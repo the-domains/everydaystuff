@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Everydaystuff]]></title>
         <description><![CDATA[Everydaystuff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/everydaystuff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 05:48:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 06:21:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/everydaystuff/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Native shoes designs]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d922ae04-3e8b-4df7-a8ae-a757c78a8c05.jpg">]]></description>
-            <link>undefined492bb293-4ddd-447e-9147-a70386c40b62/index.html</link>
+            <link>https://thegrid.ai/everydaystuff/492bb293-4ddd-447e-9147-a70386c40b62/index.html</link>
             <guid isPermaLink="false">492bb293-4ddd-447e-9147-a70386c40b62</guid>
-            <pubDate>Sun, 24 Apr 2016 05:48:42 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 06:21:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
