@@ -1,6 +1,6 @@
 name: everydaystuff
 favicon: null
-layout_spectrum: 0.90616
+layout_spectrum: 0.73803
 typography_spectrum: 0.49008
 title: Everydaystuff
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3076bb'
     - '#ffffff'
     - '#97bfcb'
-  brandStrength: 0.4375
+  brandStrength: 1
   lightness: 0.9375
   saturation: 0.9375
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0
 purpose: []
