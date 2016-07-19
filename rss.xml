@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Everydaystuff]]></title>
         <description><![CDATA[Everydaystuff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/everydaystuff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 22:16:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 22:17:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/everydaystuff/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbab98a5-c6a6-4674-8b1f-7b7bb7de58be.jpg">]]></description>
+            <link>https://thegrid.ai/everydaystuff/sup-sup-sup/index.html</link>
+            <guid isPermaLink="false">3f1b8f74-9d4a-475b-afc3-268d8fa97d7e</guid>
+            <pubDate>Tue, 19 Jul 2016 22:17:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/045a3b34-564e-4e27-afe1-05683dd761f4.jpg">]]></description>
-            <link>undefinedsupsup/index.html</link>
+            <link>https://thegrid.ai/everydaystuff/supsup/index.html</link>
             <guid isPermaLink="false">a325785a-0600-47e2-bc57-cb1ad212ed03</guid>
             <pubDate>Tue, 19 Jul 2016 22:16:06 GMT</pubDate>
         </item>
